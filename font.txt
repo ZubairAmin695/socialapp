@@ -1,0 +1,449 @@
+export const google_font_family_classes = [
+  {
+    css_rule: "'Roboto', sans-serif",
+    label: "Default",
+    value: "",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap')",
+  },
+  {
+    css_rule: "'Mukta', sans-serif",
+    label: "Muktra",
+    value: "font_muktra",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300;400;500;600;700;800&display=swap')",
+  },
+  {
+    css_rule: "'Sora', sans-serif",
+    label: "Sora",
+    value: "font_sora",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100;200;300;400;500;600;700;800&display=swap')",
+  },
+  {
+    css_rule: "'Hahmlet', serif",
+    label: "Hahmlet",
+    value: "font_Hahmlet",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Hahmlet:wght@100;200;300;400;500;600;700;800;900&display=swap')",
+  },
+  {
+    css_rule: "'Andada Pro', serif",
+    label: "Andada Pro",
+    value: "font_andada-pro",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Andada+Pro:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&display=swap')",
+  },
+  {
+    css_rule: "'Work Sans', sans-serif",
+    label: "Work Sans",
+    value: "font_work-sans",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap')",
+  },
+  {
+    css_rule: "'Raleway', sans-serif",
+    label: "Raleway",
+    value: "font_raleway",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap')",
+  },
+  {
+    css_rule: "'Spectral', serif",
+    label: "Spectral",
+    value: "font_spectral",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap')",
+  },
+  {
+    css_rule: "'Cormorant', serif",
+    label: "Cormorant",
+    value: "font_cormorant",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap')",
+  },
+  {
+    css_rule: "'Archivo', sans-serif",
+    label: "Archivo",
+    value: "font_archivo",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap')",
+  },
+  {
+    css_rule: "'Playfair Display', serif",
+    label: "Playfair",
+    value: "font_playfair",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap')",
+  },
+  {
+    css_rule: "'BioRhyme', serif",
+    label: "BioRhyme",
+    value: "font_biorhyme",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=BioRhyme:wght@200;300;400;700;800&display=swap')",
+  },
+  {
+    css_rule: "'Lora', serif",
+    label: "Lora",
+    value: "font_lora",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap')",
+  },
+  {
+    css_rule: "'Manrope', sans-serif",
+    label: "Manrope",
+    value: "font_manrope",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap')",
+  },
+  {
+    css_rule: "'Encode Sans', sans-serif",
+    label: "Encode Sans",
+    value: "font_encode-sans",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap')",
+  },
+  {
+    css_rule: "'Inter', sans-serif",
+    label: "Inter",
+    value: "font_inter",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap')",
+  },
+  {
+    css_rule: "'Epilogue', sans-serif",
+    label: "Epilogue",
+    value: "font_epilogue",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap')",
+  },
+  {
+    css_rule: "'Open Sans', sans-serif",
+    label: "Open Sans",
+    value: "font_open-sans",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap')",
+  },
+  {
+    css_rule: "'Oxygen', sans-serif",
+    label: "Oxygen",
+    value: "font_oxygen",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap')",
+  },
+  {
+    css_rule: "'Source Sans Pro', sans-serif",
+    label: "Source Sans Pro",
+    value: "font_source-sans-pro",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap')",
+  },
+  {
+    css_rule: "'Nunito', sans-serif",
+    label: "Nunito",
+    value: "font_nunito",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap')",
+  },
+  {
+    css_rule: "'Poppins', sans-serif",
+    label: "Poppins",
+    value: "font_poppins",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap')",
+  },
+  {
+    css_rule: "'Montserrat', sans-serif",
+    label: "Montserrat",
+    value: "font_montserrat",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap')",
+  },
+  {
+    css_rule: "'Oswald', sans-serif",
+    label: "Oswald",
+    value: "font_oswald",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap')",
+  },
+  {
+    css_rule: "'Old Standard TT', serif",
+    label: "Old Standard TT",
+    value: "font_old-standard-tt",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&display=swap')",
+  },
+  {
+    css_rule: "'Anton', sans-serif",
+    label: "Anton",
+    value: "font_anton",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap')",
+  },
+  {
+    css_rule: "'Lato', sans-serif",
+    label: "Lato",
+    value: "font_lato",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap')",
+  },
+  {
+    css_rule: "'Philosopher', sans-serif",
+    label: "Philosopher",
+    value: "font_philosopher",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap')",
+  },
+  {
+    css_rule: "'Sanchez', serif",
+    label: "Sanchez",
+    value: "font_sanchez",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Sanchez:ital@0;1&display=swap')",
+  },
+  {
+    css_rule: "'Rubik', sans-serif",
+    label: "Rubik",
+    value: "font_rubik",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap')",
+  },
+  {
+    css_rule: "'Rokkitt', serif",
+    label: "Rokkitt",
+    value: "font_rokkitt",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Rokkitt:wght@100;200;300;400;500;600;700;800;900&display=swap')",
+  },
+  {
+    css_rule: "'Rambla', sans-serif",
+    label: "Rambla",
+    value: "font_rambla",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Rambla:ital,wght@0,400;0,700;1,400;1,700&display=swap')",
+  },
+  {
+    css_rule: "'Noto Sans', sans-serif",
+    label: "Noto Sans",
+    value: "font_noto-sans",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap')",
+  },
+  {
+    css_rule: "'Mulish', sans-serif",
+    label: "Mulish",
+    value: "font_mulish",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap')",
+  },
+  {
+    css_rule: "'Merriweather', sans-serif",
+    label: "Merriweather",
+    value: "font_merriweather",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap')",
+  },
+  {
+    css_rule: "'Karla', sans-serif",
+    label: "Karla",
+    value: "font_karla",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap')",
+  },
+  {
+    css_rule: "'Josefin Sans', sans-serif",
+    label: "Josefin Sans",
+    value: "font_josefin-sans",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap')",
+  },
+  {
+    css_rule: "'Fira Sans', sans-serif",
+    label: "Fira Sans",
+    value: "font_fira-sans",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap')",
+  },
+  {
+    css_rule: "'Fjalla One', sans-serif",
+    label: "Fjalla One",
+    value: "font_fjalla-one",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap')",
+  },
+  {
+    css_rule: "'DM Sans', sans-serif",
+    label: "DM Sans",
+    value: "font_dm-sans",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap')",
+  },
+  {
+    css_rule: "'Concert One', cursive",
+    label: "Concert One",
+    value: "font_concert-one",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap')",
+  },
+  {
+    css_rule: "'Cardo', serif",
+    label: "Cardo",
+    value: "font_cardo",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&display=swap')",
+  },
+  {
+    css_rule: "'Cabin', sans-serif",
+    label: "Cabin",
+    value: "font_cabin",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap')",
+  },
+  {
+    css_rule: "'Bree Serif', serif",
+    label: "Bree Serif",
+    value: "font_bree-sarif",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap')",
+  },
+  {
+    css_rule: "'Arimo', sans-serif",
+    label: "Arimo",
+    value: "font_arimo",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap')",
+  },
+  {
+    css_rule: "'Abril Fatface', cursive",
+    label: "Abril Fatface",
+    value: "font_abril-fatface",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap')",
+  },
+  {
+    css_rule: "'Readex Pro', sans-serif",
+    label: "Readex Pro",
+    value: "font_readex-pro",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@200;300;400;500;600;700&display=swap')",
+  },
+  {
+    css_rule: "'Ubuntu', sans-serif",
+    label: "Ubuntu",
+    value: "font_ubuntu",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap')",
+  },
+  {
+    css_rule: "'Courgette', cursive",
+    label: "Courgette",
+    value: "font_courgette",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap')",
+  },
+  {
+    css_rule: "'Saira', sans-serif",
+    label: "Saira",
+    value: "font_saira",
+    import_link:
+      "@import url('https://fonts.googleapis.com/css2?family=Saira:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap')",
+  },
+  {
+    css_rule: `"Lobster Two", cursive`,
+    label: "Lobster Two",
+    value: "font_lobster_two",
+    import_link: `@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap');`,
+  },
+  {
+    css_rule: `"Roboto", sans-serif`,
+    label: "Roboto",
+    value: "font-roboto",
+    import_link: `@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');`,
+  },
+  {
+    css_rule: `"Heebo", sans-serif`,
+    label: "Heebo",
+    value: "font-heebo",
+    import_link: `@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100;200;300;400;500;600;700;800;900&display=swap');`,
+  },
+
+  {
+    css_rule: `"Teko", sans-serif`,
+    label: "Teko",
+    value: "font_teko",
+    import_link: `@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300;400;500;600;700&display=swap');`,
+  },
+
+  {
+    css_rule: `"Bebas Neue"`,
+    label: "Bebas Neue",
+    value: "font_bebas_Neue",
+    import_link: `@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');`,
+  },
+
+  {
+    css_rule: `"Manrope"`,
+    label: "Manrope",
+    value: "font_manrope",
+    import_link: `@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');`,
+  },
+
+  {
+    css_rule: `"Nova Square"`,
+    label: "Nova Square",
+    value: "font_nova_square",
+    import_link: `@import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');`,
+  },
+
+  {
+    css_rule: `"Palette Mosaic"`,
+    label: "Palette Mosaic",
+    value: "font_palette_mosaic",
+    import_link: `@import url('https://fonts.googleapis.com/css2?family=Palette+Mosaic&display=swap');`,
+  },
+
+  {
+    css_rule: `"Hurricane"`,
+    label: "Hurricane",
+    value: "font_hurricane",
+    import_link: `@import url('https://fonts.googleapis.com/css2?family=Hurricane&display=swap');`,
+  },
+
+  {
+    css_rule: `Red Hat Mono`,
+    label: "Red Hat Mono",
+    value: "font_red_hat_mono",
+    import_link: `@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Mono:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');`,
+  },
+  {
+    css_rule: `Dancing Script`,
+    label: "Dancing Script",
+    value: "font_dancing_script",
+    import_link: `@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');`,
+  },
+  {
+    css_rule: `Kaushan Script`,
+    label: "kaushan Script",
+    value: "font_kaushan_script",
+    import_link: `@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');`,
+  },
+  {
+    css_rule: `Square Peg`,
+    label: "Square Peg",
+    value: "font_square_peg",
+    import_link: `@import url('https://fonts.googleapis.com/css2?family=Square+Peg&display=swap');`,
+  },
+  {
+    css_rule: `Libre Bodoni`,
+    label: "Libre Bodoni",
+    value: "font_libre_bodoni",
+    import_link: `@import url('https://fonts.googleapis.com/css2?family=Libre+Bodoni:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');`,
+  },
+  {
+    css_rule: "'Black Han Sans', sans-serif",
+    label: "Black Han Sans",
+    value: "font_black_han_sans",
+    import_link: `@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');`,
+  },
+];
